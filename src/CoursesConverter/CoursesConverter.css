@@ -1,0 +1,39 @@
+.contaner {
+    display: flex;
+    justify-content: center;
+}
+
+.container__wrap_from {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container__wrap_from__select_field {
+    margin-right: 15px;
+}
+
+.container__wrap_to {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container__wrap_to__select_field {
+    margin-right: 15px;
+}
+
+.container__wrap_submit_button {
+    padding-top:20px;
+}
+
+.wrapper_for_progress {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+}
